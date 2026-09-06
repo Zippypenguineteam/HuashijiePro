@@ -7,13 +7,13 @@ App việt hóa miễn phí thuần window không giả lập phiên bản beta 
 
 Hướng dẫn và đề xuất
 
-    Window
+  Window
 tải bản HuashijiePro.zip dành cho window và giải nén
 tìm hsjpro.exe để chạy 
    Cách nhập cọ:
 Bấm Brush / Cọ
 Tìm nút menu ☰ / ba gạch trong bảng brush
-Chọn 导入画笔 = Import Brush
+Chọn  导入画笔   = Import Brush
 Chọn file vừa tải về
 link trang web đề xuất nếu bạn muốn tìm trên 画世界Pro: https://www.sucaijishi.com/brush-34-220-1.html
 
